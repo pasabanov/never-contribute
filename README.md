@@ -1,7 +1,7 @@
 # Never Contribute
 
 A list of projects that include terms such as
-- "You grant [organization] the ability to use the Contributions in any way."
+- "You grant [organization] the ability to use the Contributions **in any way**."
 or
 - "You grant [organization] ... **relicenseable** ... property rights."
 
