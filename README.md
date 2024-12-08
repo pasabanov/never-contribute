@@ -9,15 +9,11 @@ or
 
 Avoid contributing to such projects! Better to make a fork!
 
----
-
 ## Why This List Exists
 
 Many organizations include terms in their Contributor License Agreements (CLAs) that grant them the unrestricted right to relicense your contributions. This means that while your contributions may originally be made to an open-source project, the organization could relicense them under proprietary terms.
 
 This undermines the principles of open-source development and the trust of contributors.
-
----
 
 ## Video Resources
 
@@ -25,8 +21,6 @@ To better understand the dangers of some CLA agreements, check out these informa
 
 1. [Never Sign A Contributor License Agreement](https://www.youtube.com/watch?v=TV9EhzfjepA) — Brodie Robertson discusses the risks of the phrase "in any way" in Contributor License Agreements.
 2. [Contributor License Agreements Ruin Most FOSS Projects](https://www.youtube.com/watch?v=4CcCoSjX8s4) — Brodie Robertson reviews various CLA agreements from different organizations. At the end of the video (from 8:29), he discusses the "Discourse CLA" which allows project owners to relicense contributions under any terms (including proprietary ones).
-
----
 
 ## What to Look For
 
@@ -37,16 +31,12 @@ Be cautious when you encounter terms such as:
 
 If you see these phrases (or similar), do not contribute unless you don't care about them making your contribution closed. The alternatives may be to find a similar project or fork this one.
 
----
-
 ## Examples of Such Projects
 
 | Project Name | Repository | Link to CLA | Problem |
 |-|-|-|-|
 | **APITable** | https://github.com/apitable/apitable | https://cla-assistant.io/apitable/apitable | "**in any way**" |
 | **Audacity** | https://github.com/audacity/audacity |https://www.audacityteam.org/CLA | "**in any way**" |
-
----
 
 ## Contributing to This List
 
@@ -57,8 +47,6 @@ Open a pull request with the following information:
 - Organization responsible
 - A link to the CLA
 - Description of the problem with the CLA
-
----
 
 ## License
 
